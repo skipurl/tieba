@@ -1,4 +1,4 @@
-# 贴吧签到Github Action版
+# 贴吧签到Github Action版gg
 
 ## 今日签到状态 
 
