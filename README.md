@@ -1,6 +1,6 @@
 # 贴吧签到Github Action版
 
-## 今日签到状态
+## 今日签到状态 
 
 ![Baidu Tieba Auto Sign](https://github.com/ghosx/tieba/workflows/Baidu%20Tieba%20Auto%20Sign/badge.svg)
 
@@ -32,3 +32,4 @@ TG： https://t.me/tiebasign
 
 qq群： 818794879
 
+1
